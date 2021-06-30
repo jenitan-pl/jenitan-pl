@@ -2,6 +2,7 @@
 --->type conversions<----
 
 a = "hello"
+
 print(a,type(a))
 print(bool(a))
 
@@ -17,10 +18,15 @@ print(d,int(d))
 
 #output 
 hello <class 'str'>
+
 True
+
 354
+
 354.0
+
 190.0
+
 450.0 450
 
 
@@ -37,12 +43,19 @@ print(stdavg)
 
 #output 
 Enter student name:jeni
+
 Enter student id:07
+
 Enter student course:bca
+
 Enter student average:98
+
 jeni
+
 7
+
 bca <class 'str'>
+
 98.0
 
 
@@ -55,7 +68,9 @@ print(stdcourse,type(stdcourse))
 
 #output
 jeni <class 'str'>
+
 0707 <class 'str'>
+
 bca <class 'str'>
 
 
